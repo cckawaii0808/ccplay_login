@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73078875274",
+    "project_id": "ccloginsign",
+    "storage_bucket": "ccloginsign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73078875274:android:939965ec43d311f7423973",
+        "android_client_info": {
+          "package_name": "com.ccplay.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73078875274-eshlkjmptrg3vu8l7pjs7ihqpal1oria.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCPI1ey9y69L_rDg-3Qsq524Jl_hV9pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73078875274-eshlkjmptrg3vu8l7pjs7ihqpal1oria.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
